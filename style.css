@@ -57,11 +57,11 @@ body{
 #tabs-bottom{
     position: fixed;
     bottom: 0;
-    left:0;
-    z-index:500;
+    left: 0;
+    z-index: 500;
     width: 100px;
     height: 40px;
-    color:forestgreen;
+    background-color: forestgreen;
 }
 
 #tabs-bottom a{
@@ -73,7 +73,7 @@ body{
     color: white;
     text-align: center;
     text-decoration: none;
-    padding-top: none;
+    padding: top 12px;
 }
 
 
